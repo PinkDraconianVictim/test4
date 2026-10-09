@@ -1,0 +1,4 @@
+[submodule "owned-private-submodule"]
+	path = owned-private-submodule
+	url = https://github.com/PinkDraconian/test2
+	branch = main
